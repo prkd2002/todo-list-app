@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Todo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.2.
@@ -25,3 +26,10 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+=======
+# todo-list-app
+![image](https://github.com/user-attachments/assets/013d9c31-43e6-42c7-bd7f-26580fcff400)
+
+This project involves developing a simple and intuitive To-Do List application using Angular. The app will allow users to manage their daily tasks efficiently. Users can add new tasks to their list, edit tasks they have already added, and delete tasks they no longer need. Additionally, users will have the ability to mark tasks as completed, with completed tasks being visually differentiated from those still pending.
+
+>>>>>>> 4bd21075da66c58b58d2fce8dea1f8a4e1a79d77
